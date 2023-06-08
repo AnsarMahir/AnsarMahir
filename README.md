@@ -1,4 +1,8 @@
 ### Hi there 👋
+## I'm Ansak Mahir
+#### 🌱 I’m currently learning Github Basics
+#### 📫 How to reach me: Send a pull request :)
+
 
 <!--
 **AnsarMahir/AnsarMahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
