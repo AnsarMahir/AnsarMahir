@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Ansak Mahir
 #### 🌱 I’m currently learning Github Basics
-#### 📫 How to reach me: Send a pull request :)
+#### 📫 How to reach me: Send a pull request so to get notified from mail :)
 
 
 <!--
