@@ -1,7 +1,5 @@
 ### Hi there 👋
 ## I'm Ansak Mahir
-#### 🌱 I’m currently learning Laravel & Springboot
-#### 📫 How to reach me: Send a pull request so to get notified from mail :)
 #### 👯 Get connected : linkedin.com/in/ansak-mahir
 
 <!--
